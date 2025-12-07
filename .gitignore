@@ -4,7 +4,7 @@
 build/
 .qmake.stash
 Makefile
-# 실행 파일들 (이름에 확장자가 없는 경우)
+# 실행 파일들
 bounded_buffer
 hello_thread
 echo_server
@@ -13,5 +13,3 @@ chat_server
 chat_client
 web_server
 hello_gtk
-qt_test
-calculator
